@@ -8,7 +8,7 @@ menuorder: 1
 My name is Vincenzo and this is my map of plaques in Cluj-Napoca.
 
 
-<iframe src="assets/web_app/index.html" width="100%" height="auto" aspect-ratio="16/9"></iframe>
+<iframe src="assets/web_app/index.html" width="100%" height="400"></iframe>
 
 ## Current Interests and Projects:
 
